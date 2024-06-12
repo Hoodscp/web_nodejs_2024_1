@@ -11,7 +11,7 @@ export default function ContactPage() {
         <Navbar />
       </div>
       <div className="font-mono bg-blue-900 text-blue-300 text-center mt-1 p-4">
-        <h1 className="text-3xl font-bold">Contact Page! Wa!!!!</h1>
+        <h1 className="text-3xl font-bold">Project Page! Wa!!!!</h1>
       </div>
       <Footer />
     </main>
